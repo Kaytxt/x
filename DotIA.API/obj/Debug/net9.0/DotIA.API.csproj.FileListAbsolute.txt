@@ -1,0 +1,534 @@
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\appsettings.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\DotIA.API.staticwebassets.endpoints.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\DotIA.API.exe
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\DotIA.API.deps.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\DotIA.API.runtimeconfig.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\DotIA.API.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\DotIA.API.pdb
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Humanizer.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Npgsql.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.AssemblyInfo.cs
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.sourcelink.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\scopedcss\bundle\DotIA.API.styles.css
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.csproj.Up2Date
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\refint\DotIA.API.dll
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.pdb
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\DotIA.API.genruntimeconfig.cache
+C:\Users\kauan\Desktop\DotIA\dotia.api\obj\Debug\net9.0\ref\DotIA.API.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\appsettings.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\DotIA.API.staticwebassets.endpoints.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\DotIA.API.exe
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\DotIA.API.deps.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\DotIA.API.runtimeconfig.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\DotIA.API.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\DotIA.API.pdb
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.AssemblyReference.cache
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.AssemblyInfoInputs.cache
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.AssemblyInfo.cs
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.CoreCompileInputs.cache
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\scopedcss\bundle\DotIA.API.styles.css
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.Up2Date
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\refint\DotIA.API.dll
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.pdb
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\DotIA.API.genruntimeconfig.cache
+C:\Users\lucas_2t4kljc\OneDrive\Área de Trabalho\DotIA.API\obj\Debug\net9.0\ref\DotIA.API.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\appsettings.Development.json
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\appsettings.json
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.staticwebassets.endpoints.json
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.exe
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.deps.json
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.runtimeconfig.json
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.pdb
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Humanizer.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Npgsql.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.AssemblyReference.cache
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.AssemblyInfoInputs.cache
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.AssemblyInfo.cs
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.CoreCompileInputs.cache
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\scopedcss\bundle\DotIA.API.styles.css
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.Up2Date
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.dll
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\refint\DotIA.API.dll
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.pdb
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.genruntimeconfig.cache
+C:\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\ref\DotIA.API.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\appsettings.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.staticwebassets.endpoints.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.exe
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.deps.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.runtimeconfig.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\DotIA.API.pdb
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.AssemblyReference.cache
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.AssemblyInfoInputs.cache
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.AssemblyInfo.cs
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.CoreCompileInputs.cache
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\scopedcss\bundle\DotIA.API.styles.css
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.csproj.Up2Date
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\refint\DotIA.API.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.pdb
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\DotIA.API.genruntimeconfig.cache
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\ref\DotIA.API.dll
+C:\Users\luizg\Desktop\DotIA.Mobile\DotIA.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

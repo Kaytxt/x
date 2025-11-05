@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "DotIA.Mobile\\DotIA.Mobile.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DotIA.API\\DotIA.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

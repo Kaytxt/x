@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DotIA_Mobile.Views.LoginPage"
+             Title="DotIA - Login"
+             BackgroundColor="#f8fafc">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="25" Padding="30" VerticalOptions="Center">
+
+            <!-- Logo e Título -->
+            <VerticalStackLayout Spacing="10" Margin="0,0,0,30">
+                <Label Text="🤖 DotIA" 
+                       FontSize="42" 
+                       TextColor="#2563eb" 
+                       HorizontalOptions="Center" 
+                       FontAttributes="Bold"/>
+
+                <Label Text="Sistema Inteligente de Suporte" 
+                       FontSize="16" 
+                       HorizontalOptions="Center" 
+                       TextColor="#6b7280"/>
+            </VerticalStackLayout>
+
+            <!-- Card de Login -->
+            <Frame BackgroundColor="White" 
+                   Padding="25" 
+                   HasShadow="True"
+                   CornerRadius="15"
+                   BorderColor="#e5e7eb">
+
+                <VerticalStackLayout Spacing="20">
+                    <Label Text="Entrar" 
+                           FontSize="24" 
+                           FontAttributes="Bold" 
+                           TextColor="#1e293b"/>
+
+                    <!-- Email -->
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="E-mail" 
+                               FontSize="14" 
+                               TextColor="#6b7280"/>
+                        <Entry x:Name="txtEmail" 
+                               Placeholder="seu@email.com" 
+                               Keyboard="Email"
+                               BackgroundColor="#f8fafc"
+                               TextColor="#1e293b"
+                               PlaceholderColor="#94a3b8"/>
+                    </VerticalStackLayout>
+
+                    <!-- Senha -->
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="Senha" 
+                               FontSize="14" 
+                               TextColor="#6b7280"/>
+                        <Entry x:Name="txtSenha" 
+                               Placeholder="Digite sua senha" 
+                               IsPassword="True"
+                               BackgroundColor="#f8fafc"
+                               TextColor="#1e293b"
+                               PlaceholderColor="#94a3b8"/>
+                    </VerticalStackLayout>
+
+                    <!-- Botão Entrar -->
+                    <Button x:Name="btnEntrar"
+                            Text="Entrar" 
+                            Clicked="OnLoginClicked" 
+                            BackgroundColor="#2563eb"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            HeightRequest="50"
+                            CornerRadius="10"
+                            Margin="0,10,0,0"/>
+
+                    <!-- ActivityIndicator -->
+                    <ActivityIndicator x:Name="loadingIndicator"
+                                       IsRunning="False"
+                                       IsVisible="False"
+                                       Color="#2563eb"
+                                       HorizontalOptions="Center"/>
+
+                    <!-- Mensagem de erro -->
+                    <Label x:Name="lblMensagem" 
+                           TextColor="#dc2626" 
+                           HorizontalOptions="Center"
+                           FontSize="14"/>
+
+                </VerticalStackLayout>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

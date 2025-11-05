@@ -1,0 +1,6 @@
+@DotIA.API_HostAddress = http://localhost:5100
+
+GET {{DotIA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

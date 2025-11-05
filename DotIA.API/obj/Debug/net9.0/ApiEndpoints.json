@@ -1,0 +1,462 @@
+[
+  {
+    "ContainingType": "DotIA.API.Controllers.AuthController",
+    "Method": "ObterDepartamentos",
+    "RelativePath": "api/Auth/departamentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DotIA.API.Models.DepartamentoDTO, DotIA.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotIA.API.Models.LoginResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.AuthController",
+    "Method": "Registro",
+    "RelativePath": "api/Auth/registro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Models.RegistroRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotIA.API.Models.RegistroResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "AbrirTicketDireto",
+    "RelativePath": "api/Chat/abrir-ticket-direto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Controllers.AbrirTicketDiretoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "AvaliarResposta",
+    "RelativePath": "api/Chat/avaliar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Models.AvaliacaoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "ObterDetalhesChat",
+    "RelativePath": "api/Chat/detalhes/{chatId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "EditarTituloChat",
+    "RelativePath": "api/Chat/editar-titulo/{chatId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Controllers.EditarTituloRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "EnviarPergunta",
+    "RelativePath": "api/Chat/enviar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Models.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DotIA.API.Models.ChatResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "EnviarMensagemParaTecnico",
+    "RelativePath": "api/Chat/enviar-para-tecnico",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Models.MensagemUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "ExcluirChat",
+    "RelativePath": "api/Chat/excluir/{chatId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "ObterHistorico",
+    "RelativePath": "api/Chat/historico/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.ChatController",
+    "Method": "VerificarRespostaTecnico",
+    "RelativePath": "api/Chat/verificar-resposta/{chatId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ObterDashboard",
+    "RelativePath": "api/Gerente/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "RelatorioPorDepartamento",
+    "RelativePath": "api/Gerente/relatorio-departamentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ObterTicketsAbertos",
+    "RelativePath": "api/Gerente/tickets/abertos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ResponderTicket",
+    "RelativePath": "api/Gerente/tickets/responder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Controllers.ResponderTicketGerenteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ObterTodosTickets",
+    "RelativePath": "api/Gerente/tickets/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ListarUsuarios",
+    "RelativePath": "api/Gerente/usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ObterUsuario",
+    "RelativePath": "api/Gerente/usuarios/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "AtualizarUsuario",
+    "RelativePath": "api/Gerente/usuarios/{usuarioId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Controllers.AtualizarUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ExcluirUsuario",
+    "RelativePath": "api/Gerente/usuarios/{usuarioId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "AlterarCargoUsuario",
+    "RelativePath": "api/Gerente/usuarios/{usuarioId}/cargo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Controllers.AlterarCargoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "AlterarSenhaUsuario",
+    "RelativePath": "api/Gerente/usuarios/{usuarioId}/senha",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Controllers.AlterarSenhaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.GerenteController",
+    "Method": "ObterTicketsUsuario",
+    "RelativePath": "api/Gerente/usuarios/{usuarioId}/tickets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.TicketsController",
+    "Method": "ObterTicket",
+    "RelativePath": "api/Tickets/{ticketId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.TicketsController",
+    "Method": "ObterTicketsPendentes",
+    "RelativePath": "api/Tickets/pendentes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DotIA.API.Models.TicketDTO, DotIA.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DotIA.API.Controllers.TicketsController",
+    "Method": "ResolverTicket",
+    "RelativePath": "api/Tickets/resolver",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DotIA.API.Models.ResolverTicketRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
