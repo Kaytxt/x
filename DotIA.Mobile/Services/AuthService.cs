@@ -12,7 +12,8 @@ namespace DotIA_Mobile.Services
     public class AuthService : IAuthService
     {
         private readonly HttpClient _httpClient;
-        private const string API_BASE_URL = "http://localhost:5100"; // ← URL CORRIGIDA
+        // URL para Android Emulator acessar localhost da máquina host
+        private const string API_BASE_URL = "http://10.0.2.2:5100";
 
         public AuthService()
         {
